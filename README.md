@@ -1,7 +1,6 @@
 # DbHub – System Requirements Specification
 
-**Module Code:** IMDCBM201
-**Student Number:** S255073
+University of Suffolk - Student assignment
 
 ## 📖 Introduction
 
